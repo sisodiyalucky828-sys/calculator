@@ -12,11 +12,5 @@ This is a simple and responsive calculator built using HTML, CSS, and JavaScript
 - CSS
 - JavaScript
 
-## 📸 Screenshot
-(Add your project screenshot here)
-
-## 🔗 Live Demo
-(Add your live project link here)
-
-## 👨‍💻 Author
+## 👨‍💻 Name
 Lucky Parmar
